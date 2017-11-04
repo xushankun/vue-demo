@@ -41,7 +41,7 @@
         loginB:false,
         userInfo:null,
         userData:null,
-        accessT: '1d941586-8a95-4f45-8b8b-44507ab3977b'
+        accessT: ''
       }
     },
     methods:{
